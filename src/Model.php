@@ -1,9 +1,9 @@
 <?php
 
-namespace AEngine\Entity;
+namespace Alksily\Entity;
 
-use AEngine\Entity\Interfaces\ModelInterface;
-use AEngine\Entity\Traits\Macroable;
+use Alksily\Entity\Interfaces\ModelInterface;
+use Alksily\Entity\Traits\Macroable;
 use BadMethodCallException;
 
 abstract class Model implements ModelInterface

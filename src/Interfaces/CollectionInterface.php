@@ -1,8 +1,8 @@
 <?php
 
-namespace AEngine\Entity\Interfaces;
+namespace Alksily\Entity\Interfaces;
 
-use AEngine\Entity\Model;
+use Alksily\Entity\Model;
 
 interface CollectionInterface extends \ArrayAccess, \Countable, \Iterator, \JsonSerializable
 {

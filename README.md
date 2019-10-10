@@ -1,4 +1,4 @@
-AEngine Entity
+Entity
 ==== 
 Some parts of the project were influenced by: Laravel, Symfony Framework's. Thank you!
 
@@ -7,7 +7,7 @@ Some parts of the project were influenced by: Laravel, Symfony Framework's. Than
 
 #### Installation
 Run the following command in the root directory of your web project:
-> `composer require aengine/entity`
+> `composer require alksily/entity`
 
 #### Usage
 
@@ -34,4 +34,4 @@ var_dump($cars);
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 #### License
-The AEngine Entity is licensed under the MIT license. See [License File](LICENSE.md) for more information.
+The Alksily Entity is licensed under the MIT license. See [License File](LICENSE.md) for more information.

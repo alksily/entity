@@ -1,6 +1,6 @@
 <?php
 
-namespace AEngine\Entity\Traits;
+namespace Alksily\Entity\Traits;
 
 use BadMethodCallException;
 use Closure;

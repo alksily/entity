@@ -1,9 +1,9 @@
 <?php
 
-namespace AEngine\Entity\Support;
+namespace Alksily\Entity\Support;
 
-use AEngine\Entity\Collection;
-use AEngine\Entity\Traits\Macroable;
+use Alksily\Entity\Collection;
+use Alksily\Entity\Traits\Macroable;
 use ArrayAccess;
 use InvalidArgumentException;
 

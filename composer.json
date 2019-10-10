@@ -1,13 +1,12 @@
 {
-  "name": "aengine/entity",
+  "name": "alksily/entity",
   "description": "Model and Collection classes",
   "keywords": [
     "php",
     "Model",
-    "Collection",
-    "AEngine"
+    "Collection"
   ],
-  "homepage": "https://github.com/AEngine/entity",
+  "homepage": "https://github.com/alksily/entity",
   "license": "MIT",
   "authors": [
     {
@@ -22,7 +21,7 @@
   },
   "autoload": {
     "psr-4": {
-      "AEngine\\Entity\\": "src/"
+      "Alksily\\Entity\\": "src/"
     },
     "files": ["src/helpers.php"]
   }

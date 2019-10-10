@@ -1,10 +1,10 @@
 <?php
 
-namespace AEngine\Entity;
+namespace Alksily\Entity;
 
-use AEngine\Entity\Interfaces\CollectionInterface;
-use AEngine\Entity\Support\Arr;
-use AEngine\Entity\Traits\Macroable;
+use Alksily\Entity\Interfaces\CollectionInterface;
+use Alksily\Entity\Support\Arr;
+use Alksily\Entity\Traits\Macroable;
 use ArrayIterator;
 use Closure;
 use Exception;

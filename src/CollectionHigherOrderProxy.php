@@ -1,6 +1,6 @@
 <?php
 
-namespace AEngine\Entity;
+namespace Alksily\Entity;
 
 /**
  * @mixin Collection

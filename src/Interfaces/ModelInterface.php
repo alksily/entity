@@ -1,6 +1,6 @@
 <?php
 
-namespace AEngine\Entity\Interfaces;
+namespace Alksily\Entity\Interfaces;
 
 interface ModelInterface
 {
